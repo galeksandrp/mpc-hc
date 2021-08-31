@@ -10,4 +10,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Build
-      run: build.bat
+      run: ./build.bat
